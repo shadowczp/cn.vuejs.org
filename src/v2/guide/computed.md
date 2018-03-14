@@ -100,7 +100,7 @@ methods: {
 
 ``` js
 computed: {
-  now: function () {
+  nowTime: function () {
     return Date.now()
   }
 }
